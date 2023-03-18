@@ -5,7 +5,7 @@ To do Lists with Socket
 
 Link
 -------
-https://github.com/thanakornthanapipatsiri/Totolist-app.git
+[Git repo](https://github.com/thanakornthanapipatsiri/Totolist-app.git)
 
 Members
 --------
@@ -17,7 +17,7 @@ Members
  
 Demo
 --------
-* [Video Demo](https://www.youtube.com/watch?v=C1GjtSzoS_c)
+* [Video Demo](https://youtu.be/VYkWMEaz9JY)
 
 Tech Stacks and Libraries
 --------
